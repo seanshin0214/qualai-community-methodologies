@@ -73,8 +73,8 @@ Thank you for considering contributing to QualAI! This guide will help you share
 
 ```bash
 # Clone the community repository
-git clone https://github.com/qualai-community/methodologies.git
-cd methodologies
+git clone https://github.com/amnotyoung/qualai-community-methodologies.git
+cd qualai-community-methodologies
 
 # Copy template
 cp TEMPLATE.json methodologies/your-methodology-name.json
@@ -138,7 +138,7 @@ cp ../qualai-community-methodologies/methodologies/your-methodology.json ./metho
 
 **A. Fork the Repository**
 
-Click "Fork" on [qualai-community/methodologies](https://github.com/qualai-community/methodologies)
+Click "Fork" on [amnotyoung/qualai-community-methodologies](https://github.com/amnotyoung/qualai-community-methodologies)
 
 **B. Create a Branch**
 
@@ -447,12 +447,12 @@ We strongly encourage methodologies from diverse cultural contexts!
 **Questions?**
 - Read the [FAQ](FAQ.md)
 - Browse existing methodologies for examples
-- Ask in [Discussions](https://github.com/qualai-community/methodologies/discussions)
+- Ask in [Discussions](https://github.com/amnotyoung/qualai-community-methodologies/discussions)
 
 ### During Contribution
 
 **Stuck?**
-- Post in [Discussions](https://github.com/qualai-community/methodologies/discussions)
+- Post in [Discussions](https://github.com/amnotyoung/qualai-community-methodologies/discussions)
 - Email: community@qualai.dev
 - Tag maintainers in your PR
 
@@ -555,8 +555,8 @@ Your contribution helps researchers worldwide conduct better, more rigorous qual
 
 ## 📞 Contact
 
-- **General Questions**: [Discussions](https://github.com/qualai-community/methodologies/discussions)
-- **Technical Issues**: [Issues](https://github.com/qualai-community/methodologies/issues)
+- **General Questions**: [Discussions](https://github.com/amnotyoung/qualai-community-methodologies/discussions)
+- **Technical Issues**: [Issues](https://github.com/amnotyoung/qualai-community-methodologies/issues)
 - **Private Inquiries**: community@qualai.dev
 
 ---
