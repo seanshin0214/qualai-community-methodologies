@@ -70,7 +70,7 @@ In your `claude_desktop_config.json`:
       "command": "node",
       "args": ["path/to/qualai-mcp/dist/index.js"],
       "env": {
-        "QUALAI_GITHUB_REPO": "qualai-community/methodologies"
+        "QUALAI_GITHUB_REPO": "amnotyoung/qualai-community-methodologies"
       }
     }
   }
@@ -269,7 +269,7 @@ Interested in reviewing methodologies?
 - Reviewer badge on profile
 - Citation in reviewed methodologies
 
-**Apply:** [Open an issue](https://github.com/qualai-community/methodologies/issues/new?template=reviewer-application.md)
+**Apply:** [Open an issue](https://github.com/amnotyoung/qualai-community-methodologies/issues/new?template=reviewer-application.md)
 
 ### Review Guidelines
 
@@ -346,13 +346,13 @@ You may use:
 ## 🆘 Support
 
 ### For Contributors
-- **Questions**: [Discussions](https://github.com/qualai-community/methodologies/discussions)
-- **Issues**: [Issue Tracker](https://github.com/qualai-community/methodologies/issues)
+- **Questions**: [Discussions](https://github.com/amnotyoung/qualai-community-methodologies/discussions)
+- **Issues**: [Issue Tracker](https://github.com/amnotyoung/qualai-community-methodologies/issues)
 - **Email**: community@qualai.dev
 
 ### For Users
 - **QualAI Issues**: [Main repo](https://github.com/seanshin0214/qualai-mcp/issues)
-- **Methodology Questions**: [Discussions](https://github.com/qualai-community/methodologies/discussions)
+- **Methodology Questions**: [Discussions](https://github.com/amnotyoung/qualai-community-methodologies/discussions)
 
 ---
 
@@ -385,7 +385,7 @@ Thank you to all methodology contributors and reviewers who make this possible.
 ## 📞 Contact
 
 - **General Inquiries**: community@qualai.dev
-- **Technical Issues**: [GitHub Issues](https://github.com/qualai-community/methodologies/issues)
+- **Technical Issues**: [GitHub Issues](https://github.com/amnotyoung/qualai-community-methodologies/issues)
 - **Twitter**: @QualAI_Research
 
 ---
