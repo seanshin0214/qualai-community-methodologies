@@ -1,0 +1,217 @@
+{
+  "id": "your-methodology-slug",
+  "name": "Your Methodology Name",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Full Name",
+    "email": "your.email@institution.edu",
+    "orcid": "0000-0000-0000-0000",
+    "affiliation": "Your Institution",
+    "website": "https://your-website.com"
+  },
+  "citation": {
+    "apa": "Author, A. (Year). Title of methodology. Journal Name, Volume(Issue), pages. DOI",
+    "bibtex": "@article{author2020methodology,\n  title={Title},\n  author={Author, A.},\n  journal={Journal},\n  year={2020}\n}"
+  },
+  "license": "CC-BY-4.0",
+  "category": "theory-building",
+  "description": "Brief description of when to use this methodology. What research questions does it answer? What type of data is it best for? (2-3 sentences)",
+  "longDescription": "Detailed explanation of the methodology's philosophical foundations, theoretical underpinnings, and unique characteristics. Explain how it differs from similar approaches.",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "paradigm": "constructivist | positivist | interpretivist | critical | pragmatic",
+  "difficulty": "beginner | intermediate | advanced",
+  "timeEstimate": {
+    "minimum": "2 weeks",
+    "typical": "4-6 weeks",
+    "maximum": "3 months"
+  },
+  "sampleSize": {
+    "minimum": 10,
+    "recommended": 15,
+    "maximum": null,
+    "rationale": "Explanation of why these sample sizes are recommended"
+  },
+  "dataTypes": [
+    "interviews",
+    "focus-groups",
+    "observations",
+    "documents",
+    "videos",
+    "mixed"
+  ],
+  "stages": [
+    {
+      "name": "Stage 1: Name",
+      "order": 1,
+      "description": "What happens in this stage",
+      "guidance": "Detailed step-by-step instructions for researchers:\n1. Step one\n2. Step two\n3. Step three",
+      "duration": "1-2 weeks",
+      "tools": [
+        "autoCoding",
+        "refineCodebook"
+      ],
+      "inputs": [
+        "Raw transcripts",
+        "Field notes"
+      ],
+      "outputs": [
+        "Initial codebook",
+        "Memos"
+      ],
+      "qualityCriteria": [
+        "Criterion 1: Description",
+        "Criterion 2: Description"
+      ],
+      "commonPitfalls": [
+        "Pitfall 1: How to avoid",
+        "Pitfall 2: How to avoid"
+      ],
+      "examples": [
+        {
+          "scenario": "Example scenario",
+          "action": "What the researcher did",
+          "outcome": "What resulted"
+        }
+      ]
+    },
+    {
+      "name": "Stage 2: Name",
+      "order": 2,
+      "description": "What happens in this stage",
+      "guidance": "Detailed instructions...",
+      "duration": "2-3 weeks",
+      "tools": [
+        "extractThemes",
+        "findNegativeCases"
+      ],
+      "inputs": [
+        "Output from Stage 1"
+      ],
+      "outputs": [
+        "Themes",
+        "Theme definitions"
+      ],
+      "qualityCriteria": [
+        "Quality criterion..."
+      ],
+      "commonPitfalls": [
+        "Common pitfall..."
+      ]
+    }
+  ],
+  "qualityFramework": {
+    "credibility": [
+      "How to establish credibility",
+      "Specific techniques"
+    ],
+    "transferability": [
+      "How to enable transferability"
+    ],
+    "dependability": [
+      "How to ensure dependability"
+    ],
+    "confirmability": [
+      "How to demonstrate confirmability"
+    ]
+  },
+  "examples": [
+    {
+      "study": "Brief description of a published study using this methodology",
+      "citation": "Full APA citation of the study",
+      "researchQuestion": "What was the research question?",
+      "sampleSize": 15,
+      "dataType": "interviews",
+      "findings": "Key findings from the study",
+      "lessons": "What can we learn from this example?",
+      "url": "https://doi.org/..."
+    }
+  ],
+  "resources": [
+    {
+      "type": "book",
+      "title": "Foundational Book Title",
+      "author": "Author Name",
+      "year": 2020,
+      "description": "Why this resource is helpful",
+      "url": "https://..."
+    },
+    {
+      "type": "article",
+      "title": "Key Article Title",
+      "author": "Author Name",
+      "year": 2019,
+      "description": "What this article covers",
+      "url": "https://doi.org/..."
+    },
+    {
+      "type": "video",
+      "title": "Tutorial Video Title",
+      "author": "Creator Name",
+      "year": 2021,
+      "description": "What the video demonstrates",
+      "url": "https://youtube.com/..."
+    },
+    {
+      "type": "website",
+      "title": "Helpful Website",
+      "description": "What's on this website",
+      "url": "https://..."
+    }
+  ],
+  "relatedMethodologies": [
+    {
+      "id": "grounded-theory-charmaz",
+      "relationship": "Similar in X, but differs in Y",
+      "whenToChooseThis": "Choose this methodology when..."
+    }
+  ],
+  "toolMappings": {
+    "autoCoding": {
+      "stage": 1,
+      "purpose": "Generate initial codes from transcripts",
+      "parameters": {
+        "codingApproach": "line-by-line | paragraph | document",
+        "codeType": "in-vivo | constructed | mixed"
+      }
+    },
+    "extractThemes": {
+      "stage": 2,
+      "purpose": "Identify patterns and generate themes",
+      "parameters": {
+        "approach": "inductive | deductive | mixed"
+      }
+    }
+  },
+  "validation": {
+    "requiredReviewers": 2,
+    "reviewCriteria": [
+      "Methodological accuracy",
+      "Clarity of instructions",
+      "Completeness",
+      "Proper citations"
+    ],
+    "testData": {
+      "included": false,
+      "url": null
+    }
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-01-15",
+      "changes": "Initial release"
+    }
+  ],
+  "metadata": {
+    "created": "2025-01-15",
+    "lastUpdated": "2025-01-15",
+    "downloads": 0,
+    "usageCount": 0,
+    "rating": null,
+    "status": "draft | under-review | approved | deprecated"
+  }
+}
